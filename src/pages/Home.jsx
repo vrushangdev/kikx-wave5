@@ -1,6 +1,8 @@
 
-
+import About from '../components/About'
 import Hero from "../components/Hero";
+import BuySell from '../components/BuySell';
+import Create from '../components/Create';
 
 
 
@@ -35,10 +37,13 @@ function Home() {
             <Hero />
           </div>
          
-        
-          {/* <div className=" py-2">
+          <div className=" py-2">
+           <Create/>
+          </div>
+          <div className=" py-2">
             <About />
-          </div> */}
+          </div>
+         
         </div>
       </>
     );
