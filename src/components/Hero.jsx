@@ -13,13 +13,13 @@ function Hero() {
         <img
           src="images/winn.png"
           alt=""
-          className=" absolute right-3 sm:right-[26%] h-[80px] sm:h-[115px] top-[78%] sm:top-[74%]"
+          className=" absolute right-3 sm:right-[26%] h-[80px] sm:h-[115px] top-[76%] sm:top-[74%]"
         />
 
         <img
           src="images/grand.png"
           alt=""
-          className=" absolute right-3 sm:right-[26%] h-[70px] sm:h-[96px] -bottom-1 sm:-bottom-[13px] overflow-y-hidden"
+          className=" absolute right-3 sm:right-[26%] h-[70px] sm:h-[96px] -bottom-0 sm:-bottom-[13px] overflow-y-hidden"
         />
         <img
           src="images/chart.png"

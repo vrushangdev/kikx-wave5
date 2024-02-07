@@ -4,7 +4,7 @@ function About() {
   return (
     <section className=" relative overflow-y-hidden">
       <div className="container-wrapper relative z-50 max-w-3xl mx-auto">
-        <div className="bg-[#a149a9b2] rounded-2xl  relative ">
+        <div className="bg-[#a149a96c] rounded-2xl  relative ">
           <img src="images/shit.png" alt="" className="w-full top-0 absolute left-0 right-0 h-full" />
           <div className="py-2 sm:py-8 px-2 relative z-10">
             <h1
@@ -14,7 +14,7 @@ function About() {
               ABOUT KIX
             </h1>
             <div className=" max-w-xl mx-auto text-center">
-              <p className="font-work font-medium text-white text-base sm:text-lg let-space  py-5">
+              <p className="font-work font-medium text-white text-lg sm:text-2xl let-space  py-5">
                 Welcome to <span className="txt-s font-semibold">KiX </span> , a
                 Live Football Gaming Platform where users can buy and sell
                 digital assets representing the world’s most exciting
@@ -22,7 +22,7 @@ function About() {
                 performances.
               </p>
 
-              <p className="font-work font-medium text-white text-base sm:text-lg let-space">
+              <p className="font-work font-medium text-white text-lg sm:text-2xl let-space">
                 <span className="txt-s font-semibold">KiX </span> is Alpha
                 Testing on the Polygon Testnet NOW and{" "}
                 <span className="txt-s font-semibold">Tradeathon</span> is our
