@@ -3,7 +3,7 @@ import ClickStart from "../components/ClickStart";
 
 function Hero() {
   return (
-    <section className=" relative  h-[100vh]  ">
+    <section className=" relative h-auto  sm:h-[100vh]  ">
       <div className="container-wrapper relative z-50 flex items-center flex-col ">
         <img
           src="images/free.png"

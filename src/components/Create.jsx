@@ -4,7 +4,7 @@ function Create() {
   return (
     <section className=" relative overflow-y-hidden">
       <div className="container-wrapper relative z-50 max-w-3xl mx-auto">
-        <div className="bg-[#11cac9] rounded-2xl  relative ">
+        <div className="bg-[#0a7574e3] rounded-2xl  relative ">
           <img
             src="images/shit.png"
             alt=""
