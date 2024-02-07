@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <section className=" relative overflow-y-hidden">
+    <section className=" relative  pb-4">
       <div className="container-wrapper relative z-50 max-w-3xl mx-auto">
         <div className="bg-[#a149a96c] rounded-2xl  relative ">
           <img src="images/shit.png" alt="" className="w-full top-0 absolute left-0 right-0 h-full" />
