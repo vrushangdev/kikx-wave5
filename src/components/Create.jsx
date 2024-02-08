@@ -17,7 +17,7 @@ function Create() {
                   {" "}
                   Create an account{" "}
                 </span>{" "}
-                 with a social login in less than 20 secs OR just connect
+                 with a social login in less than 20 seconds OR just connect
                 your wallet. Either way it’s a{" "}
                 <span className=" font-semibold archo-black ">
                   {" "}
